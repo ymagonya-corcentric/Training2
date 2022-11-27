@@ -19,7 +19,7 @@ public class DeliveryGo {
 
         } while(varToGo > 0);
 
-        System.out.println("The amount of possible delivery routes: " + varToGo);
+        System.out.println("The amount of possible delivery routes: " + deliveryWays);
 
 
 
